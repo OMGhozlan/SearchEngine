@@ -1,0 +1,1125 @@
+https://en.wikipedia.org/wiki/Accounting
+
+
+
+
+
+
+
+
+
+
+
+
+# accounting
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+accounting  
+---  
+[![early 19th-century german
+ledger](//upload.wikimedia.org/wikipedia/commons/thumb/4/49/hauptbuch_hochstetter_vor_1828.jpg/200px-
+hauptbuch_hochstetter_vor_1828.jpg)](/wiki/file:hauptbuch_hochstetter_vor_1828.jpg
+"early 19th-century german ledger")  
+
+
+
+
+  * [historical cost](/wiki/historical_cost "historical cost")
+
+
+  * [constant purchasing power](/wiki/constant_purchasing_power_accounting "constant purchasing power accounting")
+
+
+  * [management](/wiki/management_accounting "management accounting")
+
+
+  * [tax](/wiki/tax_accounting_in_the_united_states "tax accounting in the united states")
+
+
+  
+
+
+
+
+major types
+
+
+
+
+
+
+
+  * [auditing](/wiki/auditing "auditing")
+
+
+  * [cost](/wiki/cost_accounting "cost accounting")
+
+
+  * [forensic](/wiki/forensic_accounting "forensic accounting")
+
+
+  * [financial](/wiki/financial_accounting "financial accounting")
+
+
+  * [fund](/wiki/fund_accounting "fund accounting")
+
+
+  * [governmental](/wiki/governmental_accounting "governmental accounting")
+
+
+  * [management](/wiki/management_accounting "management accounting")
+
+
+  * [social](/wiki/social_accounting "social accounting")
+
+
+  * [tax](/wiki/tax_accounting "tax accounting")
+
+
+
+
+
+
+  
+
+
+
+
+key concepts
+
+
+
+
+
+
+
+  * [accounting period](/wiki/accounting_period "accounting period")
+
+
+  * [accrual](/wiki/accrual "accrual")
+
+
+  * [constant purchasing power](/wiki/constant_purchasing_power_accounting "constant purchasing power accounting")
+
+
+  * [economic entity](/wiki/economic_entity "economic entity")
+
+
+  * [fair value](/wiki/fair_value "fair value")
+
+
+  * [going concern](/wiki/going_concern "going concern")
+
+
+  * [historical cost](/wiki/historical_cost "historical cost")
+
+
+  * [matching principle](/wiki/matching_principle "matching principle")
+
+
+  * [materiality](/wiki/materiality_\(auditing\) "materiality \(auditing\)")
+
+
+  * [revenue recognition](/wiki/revenue_recognition "revenue recognition")
+
+
+  * [unit of account](/wiki/unit_of_account "unit of account")
+
+
+
+
+
+
+  
+
+
+
+
+selected accounts
+
+
+
+
+
+
+
+  * [assets](/wiki/asset "asset")
+
+
+  * [cash](/wiki/cash "cash")
+
+
+  * [cost of goods sold](/wiki/cost_of_goods_sold "cost of goods sold")
+
+
+  * [depreciation](/wiki/depreciation "depreciation") / [amortization](/wiki/amortization "amortization")
+
+
+  * [equity](/wiki/equity_\(finance\) "equity \(finance\)")
+
+
+  * [expenses](/wiki/expense "expense")
+
+
+  * [goodwill](/wiki/goodwill_\(accounting\) "goodwill \(accounting\)")
+
+
+  * [liabilities](/wiki/liability_\(financial_accounting\) "liability \(financial accounting\)")
+
+
+  * [profit](/wiki/profit_\(accounting\) "profit \(accounting\)")
+
+
+  * [revenue](/wiki/revenue "revenue")
+
+
+
+
+
+
+  
+
+
+
+
+[accounting standards](/wiki/accounting_standards "accounting standards")
+
+
+
+
+
+
+
+  * [generally-accepted principles](/wiki/generally_accepted_accounting_principles "generally accepted accounting principles")
+
+
+  * [generally-accepted auditing standards](/wiki/generally_accepted_auditing_standards "generally accepted auditing standards")
+
+
+  * [convergence](/wiki/convergence_of_accounting_standards "convergence of accounting standards")
+
+
+  * [international financial reporting standards](/wiki/international_financial_reporting_standards "international financial reporting standards")
+
+
+  * [international standards on auditing](/wiki/international_standards_on_auditing "international standards on auditing")
+
+
+  * [management accounting principles](/wiki/management_accounting_principles "management accounting principles")
+
+
+
+
+
+
+  
+
+
+
+
+[financial statements](/wiki/financial_statement "financial statement")
+
+
+
+
+
+
+
+  * [annual report](/wiki/annual_report "annual report")
+
+
+  * [balance sheet](/wiki/balance_sheet "balance sheet")
+
+
+  * [cash-flow](/wiki/cash_flow_statement "cash flow statement")
+
+
+  * [equity](/wiki/statement_of_changes_in_equity "statement of changes in equity")
+
+
+  * [income](/wiki/income_statement "income statement")
+
+
+  * [management discussion](/wiki/management_discussion_and_analysis "management discussion and analysis")
+
+
+  * [notes to the financial statements](/wiki/notes_to_the_financial_statements "notes to the financial statements")
+
+
+
+
+
+
+  
+
+
+
+
+[bookkeeping](/wiki/bookkeeping "bookkeeping")
+
+
+
+
+
+
+
+  * [bank reconciliation](/wiki/bank_reconciliation "bank reconciliation")
+
+
+  * [debits and credits](/wiki/debits_and_credits "debits and credits")
+
+
+  * [double-entry system](/wiki/double-entry_bookkeeping_system "double-entry bookkeeping system")
+
+
+  * [fifo and lifo](/wiki/fifo_and_lifo_accounting "fifo and lifo accounting")
+
+
+  * [journal](/wiki/general_journal "general journal")
+
+
+  * [ledger](/wiki/ledger "ledger") / [general ledger](/wiki/general_ledger "general ledger")
+
+
+  * [t accounts](/wiki/t_accounts "t accounts")
+
+
+  * [trial balance](/wiki/trial_balance "trial balance")
+
+
+
+
+
+
+  
+
+
+
+
+auditing
+
+
+
+
+
+
+
+  * [financial](/wiki/financial_audit "financial audit")
+
+
+  * [internal](/wiki/internal_audit "internal audit")
+
+
+  * [firms](/wiki/accounting_networks_and_associations "accounting networks and associations")
+
+
+  * [report](/wiki/auditor%27s_report "auditor\\'s report")
+
+
+
+
+
+
+  
+
+
+
+
+people and organizations
+
+
+
+
+
+
+
+  * [accountants](/wiki/accountant "accountant")
+
+
+  * [accounting organizations](/wiki/category:accounting_organizations "category:accounting organizations")
+
+
+  * [luca pacioli](/wiki/luca_pacioli "luca pacioli")
+
+
+
+
+
+
+  
+
+
+
+
+development
+
+
+
+
+
+
+
+  * [history](/wiki/history_of_accounting "history of accounting")
+
+
+  * [research](/wiki/accounting_research "accounting research")
+
+
+  * [positive accounting](/wiki/positive_accounting "positive accounting")
+
+
+  * [sarbanes\xe2\x80\x93oxley act](/wiki/sarbanes%e2%80%93oxley_act "sarbanes\\xe2\\x80\\x93oxley act")
+
+
+
+
+
+
+  
+![portal](//upload.wikimedia.org/wikipedia/en/thumb/f/fd/portal-
+puzzle.svg/16px-portal-puzzle.svg.png) [business
+portal](/wiki/portal:business_and_economics "portal:business and economics")  
+
+
+
+
+
+
+  * [v](/wiki/template:accounting "template:accounting")
+
+
+  * [t](/wiki/template_talk:accounting "template talk:accounting")
+
+
+  * [e](//en.wikipedia.org/w/index.php?title=template:accounting&action=edit)
+
+
+
+
+  
+[business administration](/wiki/business_administration "business
+administration")  
+---  
+[management](/wiki/management "management") of a [business](/wiki/business
+"business")  
+
+
+
+
+accounting
+
+
+
+
+
+
+
+  * [management accounting](/wiki/management_accounting "management accounting")
+
+
+  * [financial accounting](/wiki/financial_accounting "financial accounting")
+
+
+  * [financial audit](/wiki/financial_audit "financial audit")
+
+
+
+
+
+
+  
+
+
+
+
+[business entities](/wiki/legal_personality "legal personality")
+
+
+
+
+
+
+
+  * [cooperative](/wiki/cooperative "cooperative")
+
+
+  * [corporation](/wiki/corporation "corporation")
+
+
+  * [limited liability company](/wiki/limited_liability_company "limited liability company")
+
+
+  * [partnership](/wiki/partnership "partnership")
+
+
+  * [sole proprietorship](/wiki/sole_proprietorship "sole proprietorship")
+
+
+  * [state-owned enterprise](/wiki/state-owned_enterprise "state-owned enterprise")
+
+
+
+
+
+
+  
+
+
+
+
+[corporate governance](/wiki/corporate_governance "corporate governance")
+
+
+
+
+
+
+
+  * [annual general meeting](/wiki/annual_general_meeting "annual general meeting")
+
+
+  * [board of directors](/wiki/board_of_directors "board of directors")
+
+
+  * [supervisory board](/wiki/supervisory_board "supervisory board")
+
+
+  * [advisory board](/wiki/advisory_board "advisory board")
+
+
+  * [audit committee](/wiki/audit_committee "audit committee")
+
+
+
+
+
+
+  
+
+
+
+
+[corporate law](/wiki/corporate_law "corporate law")
+
+
+
+
+
+
+
+  * [commercial law](/wiki/commercial_law "commercial law")
+
+
+  * [constitutional documents](/wiki/constitutional_documents "constitutional documents")
+
+
+  * [contract](/wiki/contract "contract")
+
+
+  * [corporate crime](/wiki/corporate_crime "corporate crime")
+
+
+  * [corporate liability](/wiki/corporate_liability "corporate liability")
+
+
+  * [insolvency law](/wiki/insolvency_law "insolvency law")
+
+
+  * [international trade law](/wiki/international_trade_law "international trade law")
+
+
+  * [mergers and acquisitions](/wiki/mergers_and_acquisitions "mergers and acquisitions")
+
+
+
+
+
+
+  
+
+
+
+
+[economics](/wiki/economics "economics")
+
+
+
+
+
+
+
+  * [commodity](/wiki/commodity "commodity")
+
+
+  * [public economics](/wiki/public_economics "public economics")
+
+
+  * [labour economics](/wiki/labour_economics "labour economics")
+
+
+  * [development economics](/wiki/development_economics "development economics")
+
+
+  * [international economics](/wiki/international_economics "international economics")
+
+
+  * [mixed economy](/wiki/mixed_economy "mixed economy")
+
+
+  * [planned economy](/wiki/planned_economy "planned economy")
+
+
+  * [econometrics](/wiki/econometrics "econometrics")
+
+
+  * [environmental economics](/wiki/environmental_economics "environmental economics")
+
+
+  * [open economy](/wiki/open_economy "open economy")
+
+
+  * [market economy](/wiki/market_economy "market economy")
+
+
+  * [knowledge economy](/wiki/knowledge_economy "knowledge economy")
+
+
+  * [microeconomics](/wiki/microeconomics "microeconomics")
+
+
+  * [macroeconomics](/wiki/macroeconomics "macroeconomics")
+
+
+  * [economic development](/wiki/economic_development "economic development")
+
+
+  * [economic statistics](/wiki/economic_statistics "economic statistics")
+
+
+
+
+
+
+  
+
+
+
+
+[finance](/wiki/finance "finance")
+
+
+
+
+
+
+
+  * [financial statement](/wiki/financial_statement "financial statement")
+
+
+  * [insurance](/wiki/insurance "insurance")
+
+
+  * [factoring](/wiki/factoring_\(finance\) "factoring \(finance\)")
+
+
+  * [cash conversion cycle](/wiki/cash_conversion_cycle "cash conversion cycle")
+
+
+  * [insider dealing](/wiki/insider_dealing "insider dealing")
+
+
+  * [capital budgeting](/wiki/capital_budgeting "capital budgeting")
+
+
+  * [commercial bank](/wiki/commercial_bank "commercial bank")
+
+
+  * [derivative](/wiki/derivative_\(finance\) "derivative \(finance\)")
+
+
+  * [financial statement analysis](/wiki/financial_statement_analysis "financial statement analysis")
+
+
+  * [financial risk](/wiki/financial_risk "financial risk")
+
+
+  * [public finance](/wiki/public_finance "public finance")
+
+
+  * [corporate finance](/wiki/corporate_finance "corporate finance")
+
+
+  * [managerial finance](/wiki/managerial_finance "managerial finance")
+
+
+  * [international finance](/wiki/international_finance "international finance")
+
+
+  * [liquidation](/wiki/liquidation "liquidation")
+
+
+  * [stock market](/wiki/stock_market "stock market")
+
+
+  * [financial market](/wiki/financial_market "financial market")
+
+
+  * [tax](/wiki/tax "tax")
+
+
+  * [financial institution](/wiki/financial_institution "financial institution")
+
+
+  * [working capital](/wiki/working_capital "working capital")
+
+
+  * [venture capital](/wiki/venture_capital "venture capital")
+
+
+
+
+
+
+  
+
+
+
+
+[marketing](/wiki/marketing "marketing")
+
+
+
+
+
+
+
+  * [marketing](/wiki/marketing "marketing")
+
+
+  * [marketing research](/wiki/marketing_research "marketing research")
+
+
+  * [public relations](/wiki/public_relations "public relations")
+
+
+  * [sales](/wiki/sales "sales")
+
+
+
+
+
+
+  
+
+
+
+
+[types of management](/wiki/management "management")
+
+
+
+
+
+
+
+  * [asset](/wiki/asset_management "asset management")
+
+
+  * [brand](/wiki/brand_management "brand management")
+
+
+  * [business intelligence](/wiki/business_intelligence "business intelligence")
+
+
+  * [business development](/wiki/business_development "business development")
+
+
+  * [capacity](/wiki/capacity_management "capacity management")
+
+
+  * [change](/wiki/change_management "change management")
+    * [innovation](/wiki/innovation_management "innovation management")
+
+
+
+
+  * [commercial](/wiki/commercial_management "commercial management")
+    * [marketing](/wiki/marketing_management "marketing management")
+
+
+
+
+  * [communications](/wiki/communications_management "communications management")
+
+
+  * [configuration](/wiki/configuration_management "configuration management")
+
+
+  * [conflict](/wiki/conflict_management "conflict management")
+
+
+  * [content](/wiki/content_management "content management")
+
+
+  * [customer relationship](/wiki/customer_relationship_management "customer relationship management")
+
+
+  * [distributed](/wiki/distributed_management "distributed management")
+
+
+  * [earned value](/wiki/earned_value_management "earned value management")
+
+
+  * [electronic business](/wiki/electronic_business "electronic business")
+
+
+  * [enterprise resource planning](/wiki/enterprise_resource_planning "enterprise resource planning") 
+    * [management information system](/wiki/management_information_system "management information system")
+
+
+
+
+  * [financial](/wiki/financial_management "financial management")
+
+
+  * [human resource](/wiki/human_resource_management "human resource management") 
+    * [development](/wiki/human_resources "human resources")
+
+
+
+
+  * [incident](/wiki/incident_management "incident management")
+
+
+  * [integrated](/wiki/integrated_management "integrated management")
+
+
+  * [knowledge](/wiki/knowledge_management "knowledge management")
+
+
+  * [materials](/wiki/materials_management "materials management")
+
+
+  * [network](/wiki/network_management "network management")
+
+
+  * [office](/wiki/office_management "office management")
+
+
+  * [operations](/wiki/operations_management "operations management") 
+    * [services](/wiki/operations_management_for_services "operations management for services")
+
+
+
+
+  * [performance](/wiki/performance_management "performance management")
+
+
+  * [power](/wiki/power_management "power management")
+
+
+  * [problem](/wiki/problem_management "problem management")
+
+
+  * [process](/wiki/process_management "process management")
+
+
+  * [product life-cycle](/wiki/product_life-cycle_management "product life-cycle management")
+
+
+  * [product](/wiki/product_management "product management")
+
+
+  * [project](/wiki/project_management "project management")
+
+
+  * [quality](/wiki/quality_management "quality management")
+
+
+  * [records](/wiki/records_management "records management")
+
+
+  * [resource](/wiki/resource_management "resource management")
+
+
+  * [risk](/wiki/risk_management "risk management") 
+    * [crisis](/wiki/crisis_management "crisis management")
+
+
+
+
+  * [sales](/wiki/sales_management "sales management")
+
+
+  * [security](/wiki/security_management "security management")
+
+
+  * [service](/wiki/service_management "service management")
+
+
+  * [strategic](/wiki/strategic_management "strategic management")
+
+
+  * [supply chain](/wiki/supply_chain_management "supply chain management")
+
+
+  * [systems](/wiki/systems_management "systems management")
+    * [administrator](/wiki/system_administrator "system administrator")
+
+
+
+
+  * [talent](/wiki/talent_management "talent management")
+
+
+  * [technology](/wiki/technology_management "technology management")
+
+
+
+
+
+
+  
+
+
+
+
+[the organization](/wiki/organization "organization")
+
+
+
+
+
+
+
+  * [architecture](/wiki/organizational_architecture "organizational architecture")
+
+
+  * [behavior](/wiki/organizational_behavior "organizational behavior")
+
+
+  * [communication](/wiki/organizational_communication "organizational communication")
+
+
+  * [culture](/wiki/organizational_culture "organizational culture")
+
+
+  * [conflict](/wiki/organizational_conflict "organizational conflict")
+
+
+  * [development](/wiki/organization_development "organization development")
+
+
+  * [engineering](/wiki/organizational_engineering "organizational engineering")
+
+
+  * [hierarchy](/wiki/hierarchical_organization "hierarchical organization")
+
+
+  * [patterns](/wiki/organizational_patterns "organizational patterns")
+
+
+  * [space](/wiki/organizational_space "organizational space")
+
+
+  * [structure](/wiki/organizational_structure "organizational structure")
+
+
+
+
+
+
+  
+
+
+
+
+[trade](/wiki/trade "trade")
+
+
+
+
+
+
+
+  * [business analysis](/wiki/business_analysis "business analysis")
+
+
+  * [business ethics](/wiki/business_ethics "business ethics")
+
+
+  * [business plan](/wiki/business_plan "business plan")
+
+
+  * [business judgment rule](/wiki/business_judgment_rule "business judgment rule")
+
+
+  * [consumer behaviour](/wiki/consumer_behaviour "consumer behaviour")
+
+
+  * [business operations](/wiki/business_operations "business operations")
+
+
+  * [international business](/wiki/international_business "international business")
+
+
+  * [business model](/wiki/business_model "business model")
+
+
+  * [international trade](/wiki/international_trade "international trade")
+
+
+  * [business process](/wiki/business_process "business process")
+
+
+  * [business statistics](/wiki/business_statistics "business statistics")
+
+
+
+
+
+
+  
+
+
+
+
+  * [![emblem-money.svg](//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/emblem-money.svg/16px-emblem-money.svg.png)](/wiki/file:emblem-money.svg) [business and economics portal](/wiki/portal:business_and_economics "portal:business and economics")
+
+
+  
+
+
+
+
+
+
+  * [v](/wiki/template:business_administration "template:business administration")
+
+
+  * [t](/wiki/template_talk:business_administration "template talk:business administration")
+
+
+  * [e](//en.wikipedia.org/w/index.php?title=template:business_administration&action=edit)
+
+
+
+
+  
+
+
+"accountancy" redirects here. for the constituency in hong kong, see
+[accountancy (constituency)](/wiki/accountancy_\(constituency\) "accountancy
+\(constituency\)"). for the game, see [accounting (video
+game)](/wiki/accounting_\(video_game\) "accounting \(video game\)").
+
+
+
+ **accounting** or **accountancy** is the measurement, processing, and
+communication of financial information about [economic
+entities](/wiki/economic_entity "economic entity")[1][2] such as
+[businesses](/wiki/business "business") and [corporations](/wiki/corporation
+"corporation"). the modern field was established by the
+[italian](/wiki/italians "italians") mathematician [luca
+pacioli](/wiki/luca_pacioli "luca pacioli") in 1494.[3] accounting, which has
+been called the "language of business",[4] measures the results of an
+organization\'s economic activities and conveys this information to a variety
+of users, including [investors](/wiki/investor "investor"),
+[creditors](/wiki/creditor "creditor"), [management](/wiki/management
+"management"), and [regulators](/wiki/regulatory_agency "regulatory
+agency").[5] practitioners of accounting are known as
+[accountants](/wiki/accountant "accountant"). the terms "accounting" and
+"financial reporting" are often used as synonyms.
+
+
+
+accounting can be divided into several fields including [financial
+accounting](/wiki/financial_accounting "financial accounting"), [management
+accounting](/wiki/management_accounting "management accounting"), [external
+auditing](/wiki/auditing "auditing"), [tax accounting](/wiki/tax_accounting
+"tax accounting") and [cost accounting](/wiki/cost_accounting "cost
+accounting").[6] [accounting information
+systems](/wiki/accounting_information_system "accounting information system")
+are designed to support accounting functions and related activities. financial
+accounting focuses on the reporting of an organization\'s financial
+information, including the preparation of [financial
+statements](/wiki/financial_statement "financial statement"), to external
+users of the information, such as [investors](/wiki/investor "investor"),
+[regulators](/wiki/regulatory_agency "regulatory agency") and
+[suppliers](/wiki/supply_chain "supply chain");[7] and management accounting
+focuses on the measurement, analysis and reporting of information for internal
+use by management.[1][7] the recording of financial transactions, so that
+summaries of the financials may be presented in financial reports, is known as
+[bookkeeping](/wiki/bookkeeping "bookkeeping"), of which [double-entry
+bookkeeping](/wiki/double-entry_bookkeeping "double-entry bookkeeping") is the
+most common system.[8]
+
+
+
+accounting is facilitated by [accounting
+organizations](/wiki/category:accounting_organizations "category:accounting
+organizations") such as standard-setters, [accounting
+firms](/wiki/accounting_networks_and_associations "accounting networks and
+associations") and [professional bodies](/wiki/professional_accounting_body
+"professional accounting body"). [financial
+statements](/wiki/financial_statement "financial statement") are usually
+audited by [accounting firms](/wiki/accounting_networks_and_associations
+"accounting networks and associations"),[9] and are prepared in accordance
+with [generally accepted accounting
+principles](/wiki/generally_accepted_accounting_principles "generally accepted
+accounting principles") (gaap).[7] gaap is set by various standard-setting
+organizations such as the [financial accounting standards
+board](/wiki/financial_accounting_standards_board "financial accounting
+standards board") (fasb) in the united states[1] and the financial reporting
+council in the [united kingdom](/wiki/united_kingdom "united kingdom"). as of
+2012, "all major economies" have plans to
+[converge](/wiki/convergence_\(accounting\) "convergence \(accounting\)")
+towards or adopt the [international financial reporting
+standards](/wiki/international_financial_reporting_standards "international
+financial reporting standards") (ifrs).[10]
+
+
+
+
+
+
+
+
+
+## contents
+
+
+
+
+
+
+
+  * 1
+  *[v]: view this template
+  *[t]: discuss this template
+  *[e]: edit this template
+
+: 
+Accounting or accountancy is the measurement, processing, and communication of
+financial information about economic entities[1][2] such as businesses and
+corporations. The modern field was established by the Italian mathematician
+Luca Pacioli in 1494.[3] Accounting, which has been called the "language of
+business",[4] measures the results of an organization\'s economic activities
+and conveys this information to a variety of users, including investors,
+creditors, management, and regulators.[5] Practitioners of accounting are
+known as accountants. The terms "accounting" and "financial reporting" are
+often used as synonyms.
+

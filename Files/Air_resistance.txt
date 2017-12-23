@@ -1,0 +1,38 @@
+https://en.wikipedia.org/wiki/Air_resistance
+
+
+
+
+
+
+
+
+
+
+
+
+# drag (physics)
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+\xc2\xa0\xc2\xa0(redirected from [air
+resistance](/w/index.php?title=air_resistance&redirect=no "air resistance"))
+
+: 
+In fluid dynamics, drag (sometimes called air resistance, a type of friction,
+or fluid resistance, another type of friction or fluid friction) is a force
+acting opposite to the relative motion of any object moving with respect to a
+surrounding fluid.[1] This can exist between two fluid layers (or surfaces) or
+a fluid and a solid surface. Unlike other resistive forces, such as dry
+friction, which are nearly independent of velocity, drag forces depend on
+velocity.[2][3] Drag force is proportional to the velocity for a laminar flow
+and the squared velocity for a turbulent flow. Even though the ultimate cause
+of a drag is viscous friction, the turbulent drag is independent of
+viscosity.[4]
+

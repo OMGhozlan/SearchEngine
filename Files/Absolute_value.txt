@@ -1,0 +1,81 @@
+https://en.wikipedia.org/wiki/Absolute_value
+
+
+
+
+
+
+
+
+
+
+
+
+# absolute value
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+for other uses, see [absolute value
+(disambiguation)](/wiki/absolute_value_\(disambiguation\) "absolute value
+\(disambiguation\)").
+
+
+
+
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/absolute_value.svg/220px-
+absolute_value.svg.png)](/wiki/file:absolute_value.svg)
+
+
+
+[](/wiki/file:absolute_value.svg "enlarge")
+
+the [graph](/wiki/graph_of_a_function "graph of a function") of the absolute
+value function for real numbers
+
+
+
+
+
+
+
+
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/absolutevaluediagram.svg/220px-
+absolutevaluediagram.svg.png)](/wiki/file:absolutevaluediagram.svg)
+
+
+
+[](/wiki/file:absolutevaluediagram.svg "enlarge")
+
+the absolute value of a number may be thought of as its distance from zero.
+
+
+
+
+
+
+
+in [mathematics](/wiki/mathematics "mathematics"), the **absolute value** or
+**modulus** | _x_ |
+
+: 
+In mathematics, the absolute value or modulus |x| of a real number x is the
+non-negative value of x without regard to its sign. Namely, |x| = x for a
+positive x, |x| = \xe2\x88\x92x for a negative x (in which case \xe2\x88\x92x
+is positive), and |0| = 0. For example, the absolute value of 3 is 3, and the
+absolute value of \xe2\x88\x923 is also 3. The absolute value of a number may
+be thought of as its distance from zero.
+

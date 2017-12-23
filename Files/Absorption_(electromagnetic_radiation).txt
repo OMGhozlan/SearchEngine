@@ -1,0 +1,58 @@
+https://en.wikipedia.org/wiki/Absorption_(electromagnetic_radiation)
+
+
+
+
+
+
+
+
+
+
+
+
+# absorption (electromagnetic radiation)
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/text_document_with_red_question_mark.svg/40px-
+text_document_with_red_question_mark.svg.png)
+
+| 
+
+this article includes a [list of references](/wiki/wikipedia:citing_sources
+"wikipedia:citing sources"), but **its sources remain unclear** because it has
+**insufficient[inline
+citations](/wiki/wikipedia:citing_sources#inline_citations "wikipedia:citing
+sources")**.  please help to
+[improve](/wiki/wikipedia:wikiproject_fact_and_reference_check
+"wikipedia:wikiproject fact and reference check") this article by
+[introducing](/wiki/wikipedia:when_to_cite "wikipedia:when to cite") more
+precise citations.
+
+: 
+In physics, absorption of electromagnetic radiation is the way in which the
+energy of a photon is taken up by matter, typically the electrons of an atom.
+Thus, the electromagnetic energy is transformed into internal energy of the
+absorber, for example thermal energy.[1] The reduction in intensity of a light
+wave propagating through a medium by absorption of a part of its photons is
+often called attenuation. Usually, the absorption of waves does not depend on
+their intensity (linear absorption), although in certain conditions (usually,
+in optics), the medium changes its transparency dependently on the intensity
+of waves going through, and saturable absorption (or nonlinear absorption)
+occurs.
+

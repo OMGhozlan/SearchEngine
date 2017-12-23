@@ -1,0 +1,42 @@
+https://en.wikipedia.org/wiki/Acronym
+
+
+
+
+
+
+
+
+
+
+
+
+# acronym
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+for the <acronym> html tag, see [html element \xc2\xa7
+acronym](/wiki/html_element#acronym "html element").
+
+
+
+for the use of acronyms on wikipedia, see
+[wikipedia:acronyms](/wiki/wikipedia:acronyms "wikipedia:acronyms").
+
+: 
+An acronym is a word or name formed as an abbreviation from the initial
+components in a phrase or a word, usually individual letters (as in NATO or
+laser) and sometimes syllables (as in Benelux).
+

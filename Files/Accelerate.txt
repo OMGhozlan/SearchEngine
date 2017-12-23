@@ -1,0 +1,36 @@
+https://en.wikipedia.org/wiki/Accelerate
+
+
+
+
+
+
+
+
+
+
+
+
+# acceleration
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+\xc2\xa0\xc2\xa0(redirected from
+[accelerate](/w/index.php?title=accelerate&redirect=no "accelerate"))
+
+: 
+Acceleration, in physics, is the rate of change of velocity of an object with
+respect to time. An object\'s acceleration is the net result of any and all
+forces acting on the object, as described by Newton\'s Second Law.[1] The SI
+unit for acceleration is metre per second squared (m s\xe2\x88\x922).
+Accelerations are vector quantities (they have magnitude and direction) and
+add according to the parallelogram law.[2][3] As a vector, the calculated net
+force is equal to the product of the object\'s mass (a scalar quantity) and
+its acceleration.
+

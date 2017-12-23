@@ -1,0 +1,106 @@
+https://en.wikipedia.org/wiki/Advection
+
+
+
+
+
+
+
+
+
+
+
+
+# advection
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+in the field of [physics](/wiki/physics "physics"),
+[engineering](/wiki/engineering "engineering"), and [earth
+sciences](/wiki/earth_science "earth science"), **advection** is the
+[transport](/wiki/transport "transport") of a substance by bulk motion. the
+properties of that substance are carried with it. generally the majority of
+the advected substance is a fluid. the properties that are carried with the
+advected substance are [conserved](/wiki/conservation_of_energy "conservation
+of energy") properties such as [energy](/wiki/energy "energy"). an example of
+advection is the transport of [pollutants](/wiki/pollutant "pollutant") or
+[silt](/wiki/silt "silt") in a [river](/wiki/river "river") by bulk water flow
+downstream. another commonly advected quantity is energy or
+[enthalpy](/wiki/enthalpy "enthalpy"). here the fluid may be any material that
+contains thermal energy, such as [water](/wiki/water "water") or
+[air](/wiki/air "air"). in general, any substance or conserved,
+[extensive](/wiki/intensive_and_extensive_properties "intensive and extensive
+properties") quantity can be advected by a [fluid](/wiki/fluid "fluid") that
+can hold or contain the quantity or substance.
+
+
+
+during advection, a fluid transports some conserved quantity or material via
+bulk motion. the fluid\'s motion is described
+[mathematically](/wiki/mathematics "mathematics") as a [vector
+field](/wiki/vector_field "vector field"), and the transported material is
+described by a [scalar field](/wiki/scalar_field "scalar field") showing its
+distribution over space. advection requires currents in the fluid, and so
+cannot happen in rigid solids. it does not include transport of substances by
+[molecular diffusion](/wiki/molecular_diffusion "molecular diffusion").
+
+
+
+advection is sometimes confused with the more encompassing process of
+[convection](/wiki/convection "convection") which is the combination of
+advective transport and diffusive transport.
+
+
+
+in [meteorology](/wiki/meteorology "meteorology") and [physical
+oceanography](/wiki/physical_oceanography "physical oceanography"), advection
+often refers to the transport of some property of the atmosphere or
+[ocean](/wiki/ocean "ocean"), such as [heat](/wiki/heat "heat"), humidity (see
+[moisture](/wiki/water_vapor "water vapor")) or [salinity](/wiki/salinity
+"salinity"). advection is important for the formation of
+[orographic](/wiki/orographic "orographic") clouds and the precipitation of
+water from clouds, as part of the [hydrological
+cycle](/wiki/hydrological_cycle "hydrological cycle").
+
+
+
+
+
+
+
+
+
+## contents
+
+
+
+
+
+
+
+  * 1
+
+: 
+In the field of physics, engineering, and earth sciences, advection is the
+transport of a substance by bulk motion. The properties of that substance are
+carried with it. Generally the majority of the advected substance is a fluid.
+The properties that are carried with the advected substance are conserved
+properties such as energy. An example of advection is the transport of
+pollutants or silt in a river by bulk water flow downstream. Another commonly
+advected quantity is energy or enthalpy. Here the fluid may be any material
+that contains thermal energy, such as water or air. In general, any substance
+or conserved, extensive quantity can be advected by a fluid that can hold or
+contain the quantity or substance.
+

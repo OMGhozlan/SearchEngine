@@ -1,0 +1,35 @@
+https://en.wikipedia.org/wiki/Absorption_line
+
+
+
+
+
+
+
+
+
+
+
+
+# spectral line
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+\xc2\xa0\xc2\xa0(redirected from [absorption
+line](/w/index.php?title=absorption_line&redirect=no "absorption line"))
+
+: 
+A spectral line is a dark or bright line in an otherwise uniform and
+continuous spectrum, resulting from emission or absorption of light in a
+narrow frequency range, compared with the nearby frequencies. Spectral lines
+are often used to identify atoms and molecules. These "fingerprints" can be
+compared to the previously collected "fingerprints" of atoms and molecules,[1]
+and are thus used to identify the atomic and molecular components of stars and
+planets which would otherwise be impossible.
+

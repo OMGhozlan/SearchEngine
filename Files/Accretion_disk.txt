@@ -1,0 +1,94 @@
+https://en.wikipedia.org/wiki/Accretion_disk
+
+
+
+
+
+
+
+
+
+
+
+
+# accretion disk
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ngc_4261_black_hole.jpg/220px-
+ngc_4261_black_hole.jpg)](/wiki/file:ngc_4261_black_hole.jpg)
+
+
+
+[](/wiki/file:ngc_4261_black_hole.jpg "enlarge")
+
+image taken by hubble space telescope of what may be gas accreting onto a
+black hole in elliptical galaxy ngc 4261
+
+
+
+
+
+
+
+an **accretion disk** is a structure (often a [circumstellar
+disk](/wiki/circumstellar_disk "circumstellar disk")) formed by diffused
+material in [orbital](/wiki/orbit "orbit") motion around a massive central
+body. the central body is typically a [star](/wiki/star "star"). friction
+causes orbiting material in the disk to spiral inward towards the central
+body. gravitational and frictional forces compress and raise the temperature
+of the material, causing the emission of [electromagnetic
+radiation](/wiki/electromagnetic_radiation "electromagnetic radiation"). the
+frequency range of that radiation depends on the central object\'s mass.
+accretion disks of young stars and [protostars](/wiki/protostar "protostar")
+radiate in the [infrared](/wiki/infrared "infrared"); those around [neutron
+stars](/wiki/neutron_star "neutron star") and [black holes](/wiki/black_hole
+"black hole") in the [x-ray](/wiki/x-ray "x-ray") part of the
+[spectrum](/wiki/electromagnetic_spectrum "electromagnetic spectrum"). the
+study of oscillation modes in accretion disks is referred to as
+**diskoseismology**.[1][2]
+
+
+
+
+
+
+
+
+
+## contents
+
+
+
+
+
+
+
+  * 1
+
+: 
+An accretion disk is a structure (often a circumstellar disk) formed by
+diffused material in orbital motion around a massive central body. The central
+body is typically a star. Friction causes orbiting material in the disk to
+spiral inward towards the central body. Gravitational and frictional forces
+compress and raise the temperature of the material, causing the emission of
+electromagnetic radiation. The frequency range of that radiation depends on
+the central object\'s mass. Accretion disks of young stars and protostars
+radiate in the infrared; those around neutron stars and black holes in the
+X-ray part of the spectrum. The study of oscillation modes in accretion disks
+is referred to as diskoseismology.[1][2]
+

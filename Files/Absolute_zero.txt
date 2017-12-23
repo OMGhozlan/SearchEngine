@@ -1,0 +1,276 @@
+https://en.wikipedia.org/wiki/Absolute_zero
+
+
+
+
+
+
+
+
+
+
+
+
+# absolute zero
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+this article is about the minimum temperature possible. for other uses, see
+[absolute zero (disambiguation)](/wiki/absolute_zero_\(disambiguation\)
+"absolute zero \(disambiguation\)").
+
+
+
+
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/60/celsiuskelvin.svg/150px-
+celsiuskelvin.svg.png)](/wiki/file:celsiuskelvin.svg)
+
+
+
+[](/wiki/file:celsiuskelvin.svg "enlarge")
+
+zero kelvin (\xe2\x88\x92273.15 \xc2\xb0c) is defined as absolute zero.
+
+
+
+
+
+
+
+ **absolute zero** is the lower limit of the [thermodynamic
+temperature](/wiki/thermodynamic_temperature "thermodynamic temperature")
+scale, a state at which the [enthalpy](/wiki/enthalpy "enthalpy") and
+[entropy](/wiki/entropy "entropy") of a cooled [ideal gas](/wiki/ideal_gas
+"ideal gas") reaches its minimum value, taken as 0. absolute zero is the point
+at which the fundamental particles of nature have minimal vibrational motion,
+retaining only quantum mechanical, zero-point energy-induced particle motion.
+the theoretical temperature is determined by extrapolating the [ideal gas
+law](/wiki/ideal_gas_law "ideal gas law"); by international agreement,
+absolute zero is taken as \xe2\x88\x92273.15\xc2\xb0 on the
+[celsius](/wiki/celsius "celsius") scale ([international system of
+units](/wiki/international_system_of_units "international system of
+units")),[1][2] which equates to \xe2\x88\x92459.67\xc2\xb0 on the
+[fahrenheit](/wiki/fahrenheit "fahrenheit") scale ([united states customary
+units](/wiki/united_states_customary_units "united states customary units") or
+[imperial units](/wiki/imperial_units "imperial units")).[3] the corresponding
+[kelvin](/wiki/kelvin "kelvin") and [rankine](/wiki/rankine_scale "rankine
+scale") temperature scales set their zero points at absolute zero by
+definition.
+
+
+
+it is commonly thought of as the lowest temperature possible, but it is not
+the lowest _enthalpy_ state possible, because all real substances begin to
+depart from the ideal gas when cooled as they approach the change of state to
+liquid, and then to solid; and the sum of the [enthalpy of
+vaporization](/wiki/enthalpy_of_vaporization "enthalpy of vaporization") (gas
+to liquid) and [enthalpy of fusion](/wiki/enthalpy_of_fusion "enthalpy of
+fusion") (liquid to solid) exceeds the ideal gas\'s change in enthalpy to
+absolute zero. in the [quantum-mechanical](/wiki/quantum_mechanics "quantum
+mechanics") description, matter (solid) at absolute zero is in its [ground
+state](/wiki/ground_state "ground state"), the point of lowest [internal
+energy](/wiki/internal_energy "internal energy").
+
+
+
+the [laws of thermodynamics](/wiki/laws_of_thermodynamics "laws of
+thermodynamics") indicate that absolute zero cannot be reached using only
+thermodynamic means, because the temperature of the substance being cooled
+approaches the temperature of the cooling agent
+[asymptotically](/wiki/asymptotically "asymptotically"),[4] and a system at
+absolute zero still possesses [quantum mechanical](/wiki/quantum_mechanics
+"quantum mechanics") [zero-point energy](/wiki/zero-point_energy "zero-point
+energy"), the energy of its ground state at absolute zero. the [kinetic
+energy](/wiki/kinetic_energy "kinetic energy") of the ground state cannot be
+removed.
+
+
+
+scientists and technologists routinely achieve temperatures close to absolute
+zero, where matter exhibits [quantum
+effects](/wiki/bose%e2%80%93einstein_condensate "bose\\xe2\\x80\\x93einstein
+condensate") such as [superconductivity](/wiki/superconductivity
+"superconductivity") and [superfluidity](/wiki/superfluidity "superfluidity").
+
+
+
+
+
+
+
+
+
+## contents
+
+
+
+
+
+
+
+  * 1
+
+: 
+Absolute zero is the lower limit of the thermodynamic temperature scale, a
+state at which the enthalpy and entropy of a cooled ideal gas reaches its
+minimum value, taken as 0. Absolute zero is the point at which the fundamental
+particles of nature have minimal vibrational motion, retaining only quantum
+mechanical, zero-point energy-induced particle motion. The theoretical
+temperature is determined by extrapolating the ideal gas law; by international
+agreement, absolute zero is taken as \xe2\x88\x92273.15\xc2\xb0 on the Celsius
+scale (International System of Units),[1][2] which equates to
+\xe2\x88\x92459.67\xc2\xb0 on the Fahrenheit scale (United States customary
+units or Imperial units).[3] The corresponding Kelvin and Rankine temperature
+scales set their zero points at absolute zero by definition.
+
+https://en.wikipedia.org/wiki/Absolute_zero
+
+
+
+
+
+
+
+
+
+
+
+
+# absolute zero
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+this article is about the minimum temperature possible. for other uses, see
+[absolute zero (disambiguation)](/wiki/absolute_zero_\(disambiguation\)
+"absolute zero \(disambiguation\)").
+
+
+
+
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/60/celsiuskelvin.svg/150px-
+celsiuskelvin.svg.png)](/wiki/file:celsiuskelvin.svg)
+
+
+
+[](/wiki/file:celsiuskelvin.svg "enlarge")
+
+zero kelvin (\xe2\x88\x92273.15 \xc2\xb0c) is defined as absolute zero.
+
+
+
+
+
+
+
+ **absolute zero** is the lower limit of the [thermodynamic
+temperature](/wiki/thermodynamic_temperature "thermodynamic temperature")
+scale, a state at which the [enthalpy](/wiki/enthalpy "enthalpy") and
+[entropy](/wiki/entropy "entropy") of a cooled [ideal gas](/wiki/ideal_gas
+"ideal gas") reaches its minimum value, taken as 0. absolute zero is the point
+at which the fundamental particles of nature have minimal vibrational motion,
+retaining only quantum mechanical, zero-point energy-induced particle motion.
+the theoretical temperature is determined by extrapolating the [ideal gas
+law](/wiki/ideal_gas_law "ideal gas law"); by international agreement,
+absolute zero is taken as \xe2\x88\x92273.15\xc2\xb0 on the
+[celsius](/wiki/celsius "celsius") scale ([international system of
+units](/wiki/international_system_of_units "international system of
+units")),[1][2] which equates to \xe2\x88\x92459.67\xc2\xb0 on the
+[fahrenheit](/wiki/fahrenheit "fahrenheit") scale ([united states customary
+units](/wiki/united_states_customary_units "united states customary units") or
+[imperial units](/wiki/imperial_units "imperial units")).[3] the corresponding
+[kelvin](/wiki/kelvin "kelvin") and [rankine](/wiki/rankine_scale "rankine
+scale") temperature scales set their zero points at absolute zero by
+definition.
+
+
+
+it is commonly thought of as the lowest temperature possible, but it is not
+the lowest _enthalpy_ state possible, because all real substances begin to
+depart from the ideal gas when cooled as they approach the change of state to
+liquid, and then to solid; and the sum of the [enthalpy of
+vaporization](/wiki/enthalpy_of_vaporization "enthalpy of vaporization") (gas
+to liquid) and [enthalpy of fusion](/wiki/enthalpy_of_fusion "enthalpy of
+fusion") (liquid to solid) exceeds the ideal gas\'s change in enthalpy to
+absolute zero. in the [quantum-mechanical](/wiki/quantum_mechanics "quantum
+mechanics") description, matter (solid) at absolute zero is in its [ground
+state](/wiki/ground_state "ground state"), the point of lowest [internal
+energy](/wiki/internal_energy "internal energy").
+
+
+
+the [laws of thermodynamics](/wiki/laws_of_thermodynamics "laws of
+thermodynamics") indicate that absolute zero cannot be reached using only
+thermodynamic means, because the temperature of the substance being cooled
+approaches the temperature of the cooling agent
+[asymptotically](/wiki/asymptotically "asymptotically"),[4] and a system at
+absolute zero still possesses [quantum mechanical](/wiki/quantum_mechanics
+"quantum mechanics") [zero-point energy](/wiki/zero-point_energy "zero-point
+energy"), the energy of its ground state at absolute zero. the [kinetic
+energy](/wiki/kinetic_energy "kinetic energy") of the ground state cannot be
+removed.
+
+
+
+scientists and technologists routinely achieve temperatures close to absolute
+zero, where matter exhibits [quantum
+effects](/wiki/bose%e2%80%93einstein_condensate "bose\\xe2\\x80\\x93einstein
+condensate") such as [superconductivity](/wiki/superconductivity
+"superconductivity") and [superfluidity](/wiki/superfluidity "superfluidity").
+
+
+
+
+
+
+
+
+
+## contents
+
+
+
+
+
+
+
+  * 1
+
+: 
+Absolute zero is the lower limit of the thermodynamic temperature scale, a
+state at which the enthalpy and entropy of a cooled ideal gas reaches its
+minimum value, taken as 0. Absolute zero is the point at which the fundamental
+particles of nature have minimal vibrational motion, retaining only quantum
+mechanical, zero-point energy-induced particle motion. The theoretical
+temperature is determined by extrapolating the ideal gas law; by international
+agreement, absolute zero is taken as \xe2\x88\x92273.15\xc2\xb0 on the Celsius
+scale (International System of Units),[1][2] which equates to
+\xe2\x88\x92459.67\xc2\xb0 on the Fahrenheit scale (United States customary
+units or Imperial units).[3] The corresponding Kelvin and Rankine temperature
+scales set their zero points at absolute zero by definition.
+

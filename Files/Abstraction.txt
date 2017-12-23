@@ -1,0 +1,92 @@
+https://en.wikipedia.org/wiki/Abstraction
+
+
+
+
+
+
+
+
+
+
+
+
+# abstraction
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+for specific types of abstraction and other uses of the term, see [abstraction
+(disambiguation)](/wiki/abstraction_\(disambiguation\) "abstraction
+\(disambiguation\)").
+
+
+
+ **abstraction** in its main sense is a conceptual
+[process](https://en.wiktionary.org/wiki/process "wikt:process") where general
+[rules](/wiki/rule_of_inference "rule of inference") and
+[concepts](/wiki/concept "concept") are derived from the usage and
+classification of specific examples, literal ("real" or
+"[concrete](/wiki/abstract_and_concrete "abstract and concrete")") signifiers,
+[first principles](/wiki/first_principle "first principle"), or other methods.
+
+
+
+"an abstraction" is the outcome of this process\xe2\x80\x94a concept that acts
+as a super-categorical noun for all subordinate concepts, and connects any
+related concepts as a _group_ , _field_ , or _category_.[1]
+
+
+
+conceptual abstractions may be formed by filtering the
+[information](/wiki/information "information") content of a
+[concept](/wiki/concept "concept") or an observable
+[phenomenon](/wiki/phenomenon "phenomenon"), selecting only the aspects which
+are relevant for a particular subjectively valued purpose. for example,
+abstracting a leather soccer ball to the more general idea of a
+[ball](/wiki/ball "ball") selects only the information on general ball
+attributes and behavior, excluding, but not eliminating, the other phenomenal
+and cognitive characteristics of that particular ball.[1] in a
+[type\xe2\x80\x93token distinction](/wiki/type%e2%80%93token_distinction
+"type\\xe2\\x80\\x93token distinction"), a type (e.g., a \'ball\') is more
+abstract than its tokens (e.g., \'that leather soccer ball\').
+
+
+
+abstraction in its secondary use is a material process,[2] discussed in the
+themes below.
+
+
+
+
+
+
+
+
+
+## contents
+
+
+
+
+
+
+
+  * 1
+
+: 
+Abstraction in its main sense is a conceptual process where general rules and
+concepts are derived from the usage and classification of specific examples,
+literal ("real" or "concrete") signifiers, first principles, or other methods.
+

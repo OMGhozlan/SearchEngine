@@ -1,0 +1,69 @@
+https://en.wikipedia.org/wiki/Abell_2029
+
+
+
+
+
+
+
+
+
+
+
+
+# abell 2029
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+[abell](/wiki/abell_catalogue "abell catalogue") 2029  
+---  
+[![abell 2029 composite
+chandra.jpg](//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/abell_2029_composite_chandra.jpg/220px-
+abell_2029_composite_chandra.jpg)](/wiki/file:abell_2029_composite_chandra.jpg)
+
+a2029 in [x-ray](/wiki/x-ray "x-ray") from [chandra](/wiki/chandra_x-
+ray_observatory "chandra x-ray observatory") (left) and  
+in the optical from the [digitized sky survey](/wiki/digitized_sky_survey
+"digitized sky survey") (right).
+
+  
+observation data ([epoch](/wiki/epoch_\(astronomy\) "epoch \(astronomy\)")
+[j2000](/wiki/epoch_\(astronomy\)#julian_years_and_j2000 "epoch
+\(astronomy\)"))  
+[constellation(s)](/wiki/constellation "constellation")|
+[virgo](/wiki/virgo_\(constellation\) "virgo \(constellation\)")  
+[right ascension](/wiki/right_ascension "right ascension")| 15h 10m
+56.20s  
+[declination](/wiki/declination "declination")| +05\xc2\xb0
+44\xe2\x80\xb2 41\xe2\x80\xb3  
+brightest member| [ic 1101](/wiki/ic_1101 "ic 1101")  
+[richness class](/wiki/abell_catalogue "abell catalogue")| 2[1]  
+[bautz-morgan classification](/wiki/bautz-morgan_classification "bautz-
+morgan classification")| i [1]  
+[redshift](/wiki/redshift "redshift")| 0.0767[2]  
+distance  
+([co-moving](/wiki/co-moving_distance "co-moving distance"))| 326
+[mpc](/wiki/parsec#megaparsecs_and_gigaparsecs "parsec") (1,063\xc3\x9710
+
+: 
+Abell 2029 or A2029 is a large cluster of galaxies 315 megaparsecs (1,027
+million light-years) away in the constellation Virgo.[5] A2029 is a
+Bautz\xe2\x80\x93Morgan classification type I cluster due to its large central
+galaxy, IC 1101. Abell 2029 has a diameter of 5.8\xe2\x80\x938 million ly.
+This type of galaxy is called a cD-type brightest cluster galaxy and may have
+grown to its large size by accreting nearby galaxies. Despite its relaxed
+state, it is the central member of a large supercluster which shows clear
+signs of interaction.
+

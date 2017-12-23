@@ -1,0 +1,112 @@
+https://en.wikipedia.org/wiki/Abstract_algebra
+
+
+
+
+
+
+
+
+
+
+
+
+# abstract algebra
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+
+
+
+jump to:navigation, search
+
+
+
+this article is about the branch of mathematics. for the swedish band, see
+[abstrakt algebra](/wiki/abstrakt_algebra "abstrakt algebra").
+
+
+
+"modern algebra" redirects here. for van der waerden\'s book, see [moderne
+algebra](/wiki/moderne_algebra "moderne algebra").
+
+
+
+
+
+[![picture of a rubik\\'s
+cube](//upload.wikimedia.org/wikipedia/commons/thumb/9/96/rubik%27s_cube_v2.svg/220px-
+rubik%27s_cube_v2.svg.png)](/wiki/file:rubik%27s_cube_v2.svg)
+
+
+
+[](/wiki/file:rubik%27s_cube_v2.svg "enlarge")
+
+the [permutations](/wiki/permutation "permutation") of [rubik\'s
+cube](/wiki/rubik%27s_cube "rubik\\'s cube") form a group, a fundamental
+concept within abstract algebra.
+
+
+
+
+
+
+
+in [algebra](/wiki/algebra "algebra"), which is a broad division of
+[mathematics](/wiki/mathematics "mathematics"), **abstract algebra**
+(occasionally called **modern algebra** ) is the study of [algebraic
+structures](/wiki/algebraic_structure "algebraic structure"). algebraic
+structures include [groups](/wiki/group_\(mathematics\) "group
+\(mathematics\)"), [rings](/wiki/ring_\(mathematics\) "ring \(mathematics\)"),
+[fields](/wiki/field_\(mathematics\) "field \(mathematics\)"),
+[modules](/wiki/module_\(mathematics\) "module \(mathematics\)"), [vector
+spaces](/wiki/vector_space "vector space"), [lattices](/wiki/lattice_\(order\)
+"lattice \(order\)"), and [algebras](/wiki/algebra_over_a_field "algebra over
+a field"). the term _abstract algebra_ was coined in the early 20th century to
+distinguish this area of study from the other parts of algebra.
+
+
+
+algebraic structures, with their associated [homomorphisms](/wiki/homomorphism
+"homomorphism"), form [mathematical categories](/wiki/category_\(mathematics\)
+"category \(mathematics\)"). [category theory](/wiki/category_theory "category
+theory") is a formalism that allows a unified way for expressing properties
+and constructions that are similar for various structures.
+
+
+
+[universal algebra](/wiki/universal_algebra "universal algebra") is a related
+subject that studies types of algebraic structures as single objects. for
+example, the structure of groups is a single object in universal algebra,
+which is called _variety of groups_.
+
+
+
+
+
+
+
+
+
+## contents
+
+
+
+
+
+
+
+  * 1
+
+: 
+In algebra, which is a broad division of mathematics, abstract algebra
+(occasionally called modern algebra) is the study of algebraic structures.
+Algebraic structures include groups, rings, fields, modules, vector spaces,
+lattices, and algebras. The term abstract algebra was coined in the early 20th
+century to distinguish this area of study from the other parts of algebra.
+
